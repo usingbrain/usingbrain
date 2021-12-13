@@ -1,8 +1,8 @@
-### Hi 👋
+## Hi 👋 I'm Maria
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usingbrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## About me
+### About me
 
 When I'm not creating apps and catching bugs I'm hiking, dancing and reading sci-fi!
 
