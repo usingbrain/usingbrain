@@ -1,7 +1,5 @@
 ## Hi 👋 I'm Maria
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usingbrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My Tech Stack
 
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg" />&nbsp;&nbsp;
@@ -15,6 +13,8 @@
 <img src="https://img.shields.io/badge/MongoDB%20-%2348a23b.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL%20-%2331648c.svg" />&nbsp;&nbsp;
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usingbrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
 
