@@ -2,6 +2,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usingbrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Tech Stack
+
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript%20-%233178C6.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2300D8FF.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML%20-%23E34F26.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css%20-%235BA8EE.svg" />&nbsp;&nbsp;
+<br />
+<img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express%20-%23F7DF1E.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB%20-%235C9A37.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL%20-%2331648c.svg" />&nbsp;&nbsp;
+
+
 ### About me
 
 When I'm not creating apps and catching bugs I'm hiking, dancing and reading sci-fi!
