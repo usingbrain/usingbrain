@@ -6,13 +6,13 @@
 
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript%20-%233178C6.svg" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react%20-%2300D8FF.svg" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML%20-%23E34F26.svg" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css%20-%235BA8EE.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React%20-%2300D8FF.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML%20-%23dc4a25.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS%20-%23244bdd.svg" />&nbsp;&nbsp;
 <br />
-<img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js%20-%238bbe3d.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express%20-%23F7DF1E.svg" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB%20-%235C9A37.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB%20-%2348a23b.svg" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL%20-%2331648c.svg" />&nbsp;&nbsp;
 
 
